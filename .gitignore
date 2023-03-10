@@ -1,0 +1,7 @@
+#dir
+.vs/
+bin/
+temp/
+
+#file
+*.user
